@@ -4,6 +4,11 @@ hdfdlkf;dlkf;d;
 hiiiii
 wow boss you join here from when and which time?
 wowo
+<<<<<<< HEAD
 hi who the hell are you???
 yapp i am here
 
+=======
+hi who the hell are you??
+how are you old friend??
+>>>>>>> 7928ea1b6bbd16d114970cb6da14aa9025c446ed
